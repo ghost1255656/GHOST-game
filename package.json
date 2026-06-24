@@ -1,0 +1,15 @@
+{
+ "name":"ghostplay",
+ "version":"1.0.0",
+ "main":"node_modules/expo/AppEntry.js",
+ "scripts":{"start":"expo start"},
+ "dependencies":{
+  "expo":"latest",
+  "react":"latest",
+  "react-native":"latest",
+  "@react-navigation/native":"latest",
+  "@react-navigation/native-stack":"latest",
+  "firebase":"latest",
+  "expo-google-app-auth":"latest"
+ }
+}
